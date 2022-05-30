@@ -13,5 +13,6 @@
 	},
 	"author": "bryant",
 	"description": "A project that follows FreeCodeCamp BackEnd course",
-  "keywords": ["freecodecamp", "backend", "project"]
+  "keywords": ["freecodecamp", "backend", "project"],
+  "license": "BSD"
 }

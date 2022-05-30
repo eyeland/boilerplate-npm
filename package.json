@@ -14,5 +14,6 @@
 	"author": "bryant",
 	"description": "A project that follows FreeCodeCamp BackEnd course",
   "keywords": ["freecodecamp", "backend", "project"],
-  "license": "BSD"
+  "license": "BSD",
+  "version": "1.2.0",
 }

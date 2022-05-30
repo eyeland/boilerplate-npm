@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "bryant"
+	"author": "bryant",
+  "description": "A project that follows FreeCodeCamp BackEnd course",
 }

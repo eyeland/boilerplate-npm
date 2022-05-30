@@ -15,5 +15,8 @@
 	"description": "A project that follows FreeCodeCamp BackEnd course",
   "keywords": ["freecodecamp", "backend", "project"],
   "license": "BSD",
-  "version": "1.2.0"
+  "version": "1.2.0",
+  "dependencies": {
+    "moment": 2.14.0
+  }
 }
